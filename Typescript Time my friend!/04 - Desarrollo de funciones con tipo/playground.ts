@@ -1,9 +1,10 @@
 //Funciones con nombre 
 //Estas son una declaración de función escrita con la palabra clave function que se proporciona con un nombre distinto en el ambito actual. Estas se cargan en el contexto de ejecución del código.
+
 //La sintaxis para declarar una función con nombre en TSC es la misma que para definir una en JS. La unica diferencia con Typescript, es que puede proporcionar una naotación de tipo para los parametros de la función y el valor devuelto.
+
 //Funciones anonimas
 //Estas son las funciones que se le asignan a una variable
-//Funciones flecha
 
 //Parametros de REST
 //Si se desea trabajar con varios parámetros como grupo o no sabe cuántos parámetros tomará una función en una ultima instancia, puede usar los parametros REST. Los parámetros de REST se trata como un número sin limite de parametros opcionales. Puede dejarlos desactivados o tener tantos como desee.
