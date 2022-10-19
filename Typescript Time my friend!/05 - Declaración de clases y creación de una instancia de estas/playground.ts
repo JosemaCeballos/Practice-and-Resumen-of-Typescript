@@ -71,7 +71,7 @@ console.log(myCar1.turn('right'));
 
 //Modificadores de Acceso:
 //1- Public: Si no especifica un modificador de acceso, el valor predeterminado es público. También puede establecer explícitamente el miembro en público mediante la palabra clave public.
-//2- Private: Si modifica el miembro con la palabra clave private, no se peude tener acceso a el fuera de la clase contenedora
+//2- Private: Si modifica el miembro con la palabra clave private, no se puede tener acceso a el fuera de la clase contenedora
 //3- Protected: El modificador protected actúa de forma muy similar al modificador private, con la expeción de que también se puede tener acceso a los miembros declarados protected dentro de las clases derivadas.
 //myCar1.
 
