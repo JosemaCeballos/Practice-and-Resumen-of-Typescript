@@ -1,4 +1,4 @@
-//Los generos son los denominados como tipo any, estos pueden ser cualquier tipo de variable (string, number, array, etc).Son plantillas de código que peude definir y reutilizar en todo el código base. Porporcionan una manera de indicar a las funciones, clases o interfaces qué tipo quiere usar al llamarlas.
+//Los generos son los denominados como tipo any, estos pueden ser cualquier tipo de variable (string, number, array, etc).Son plantillas de código que puede definir y reutilizar en todo el código base. Porporcionan una manera de indicar a las funciones, clases o interfaces qué tipo quiere usar al llamarlas.
 function getArra(items : any[]) : any[] {
     return new Array().concat(items);
 }
@@ -128,3 +128,4 @@ let myElectricCar = new ElectricCar;
 accelerate<ElectricCar>(myElectricCar);
 let myTruck = new Truck;
 accelerate<Truck>(myTruck);
+
